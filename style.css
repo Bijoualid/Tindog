@@ -10,3 +10,17 @@ body {
   p {
     color: #8f8f8f;
   }
+
+
+  /* Headings */
+
+.big-heading {
+    font-family: "Montserrat-Black";
+    font-size: 3.5rem;
+    line-height: 1.5;
+  }
+  
+  .section-heading {
+    font-size: 3rem;
+    line-height: 1.5;
+  }
